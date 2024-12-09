@@ -1,0 +1,20 @@
+// E-commerce website!
+
+        // 100 
+        // 2
+        // 200
+
+        // contact : form validation  - ok
+        // swap : - ok
+        // on scroll image, color - ok
+        // products : 6 ... load more
+        // responsive navbar 
+        // FAQ - ok
+        // image slider
+        // add
+        // model - ok
+        // loader
+        // mega menu
+        // responsive
+
+        // 3  
